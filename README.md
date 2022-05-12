@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ashraf.mohamediti4728@gmail.com**
 
-- 📄 Know about my experiences [resume link](Ashraf_mohamed_cv.pdf)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1kWS2YE9HJmZaKhS4g5Co3W4JNavt5BVF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

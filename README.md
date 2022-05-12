@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashraf Mohamed</h1>
 <h2 align="center">A passionate Android developer from Egypt</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraf4795" alt="ashraf4795" /></a> </p>
 
 - 🔭 I’m currently working at **Vodafone International Services _VOIS**
 
@@ -25,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraf4795&show_icons=true&locale=en&layout=compact" alt="ashraf4795" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf4795&" alt="ashraf4795" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraf4795" alt="ashraf4795" /></a> </p>

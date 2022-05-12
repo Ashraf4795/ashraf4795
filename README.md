@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashraf.mohamediti4728@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/lyDQ4](shorturl.at/lyDQ4)
+- 📄 Know about my experiences [resume link](shorturl.at/lyDQ4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
